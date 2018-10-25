@@ -1,0 +1,6 @@
+#/bin/bash
+cd bna/
+
+rm bond-network.bna
+
+composer archive create --sourceType dir --sourceName . -a bond-network.bna
