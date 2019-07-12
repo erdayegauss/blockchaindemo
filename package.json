@@ -59,7 +59,6 @@
     "composer-runtime": "0.19.16",
     "composer-runtime-hlfv1": "0.19.16",
     "cucumber": "^2.2.0",
-    "eslint": "^3.6.1",
     "extend": "",
     "istanbul": "^0.4.5",
     "jsdoc": "^3.5",
